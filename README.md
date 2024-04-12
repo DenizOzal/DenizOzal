@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Deniz and I'm am a senior computer engineering student at Bilkent University</h2>
+<h2 align="center">Hi 👋</h2>
 
 ###
 
