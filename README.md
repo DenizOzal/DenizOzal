@@ -1,8 +1,8 @@
-<h2 align="left">Hi 👋! My name is Deniz and I'm am a senior computer engineering student at Bilkent University</h2>
+<h2 align="center">Hi 👋! My name is Deniz and I'm am a senior computer engineering student at Bilkent University</h2>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -19,11 +19,8 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=DenizOzal&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=DenizOzal&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=DenizOzal&locale=en&mode=daily&theme=github_dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/DenizOzal/DenizOzal/output/snake.svg" alt="Snake animation" />
 
 ###
